@@ -62,6 +62,15 @@ It covers the transition from classical to quantum-resistant algorithms, followi
 
 ---
 
+## 🔎 How to read it properly ?
+
+- Install Obsidian on [https://obsidian.md/](https://obsidian.md/)
+- Download the PQC vault
+- Open with Obsidian
+- Enjoy !
+
+---
+
 ## 👨‍💻 Author
 
 Maillet Nills  
