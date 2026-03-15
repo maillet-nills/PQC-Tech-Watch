@@ -4,6 +4,7 @@ type: type of cryptography
 tags:
   - fundamentals
   - asymmetric
+  - resources
 link:
 ---
 ## Description
@@ -16,6 +17,9 @@ Even if the public key is known by everyone, only the intended receiver can decr
 - **Examples:** RSA, ECC, DH
 - **Based on:** hard mathematical problems (factoring, discrete logarithm)
 - **Quantum threat:** ❌ Shor's algorithm breaks it entirely 
+
 ## Why it's relevant
+(coming soon)
 
 ## Notes
+(coming soon)

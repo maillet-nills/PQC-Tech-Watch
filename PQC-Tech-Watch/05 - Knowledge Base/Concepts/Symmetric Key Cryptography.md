@@ -4,6 +4,7 @@ type: type of cryptography
 tags:
   - fundamentals
   - symmetric
+  - resources
 link:
 ---
 ## Description
@@ -15,4 +16,7 @@ link:
 
 ## Why it's relevant
 
+(coming soon)
+
 ## Notes
+(coming soon)

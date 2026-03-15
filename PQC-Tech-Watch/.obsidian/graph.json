@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "-path:_templates  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#active-watch  ",
+      "color": {
+        "a": 1,
+        "rgb": 1179392
+      }
+    },
+    {
+      "query": "tag:#algorithm  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711914
+      }
+    },
+    {
+      "query": "tag:#resources  ",
+      "color": {
+        "a": 1,
+        "rgb": 15728640
+      }
+    },
+    {
+      "query": "tag:#fundamentals  ",
+      "color": {
+        "a": 1,
+        "rgb": 16766208
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 14.775390625,
+  "linkStrength": 0.563557942708333,
+  "linkDistance": 301,
+  "scale": 0.16026589818713582,
+  "close": true
+}

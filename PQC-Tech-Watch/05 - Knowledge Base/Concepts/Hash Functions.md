@@ -4,6 +4,7 @@ type: type of cryptography
 tags:
   - fundamentals
   - hash
+  - resources
 link:
 ---
 ## Description
@@ -14,5 +15,7 @@ link:
 - **Quantum threat:** ⚠️ Grover's algorithm halves security → mitigated by doubling output size
 
 ## Why it's relevant
+(coming soon)
 
 ## Notes
+(coming soon)

@@ -23,8 +23,8 @@ cite-key:
 - Reduces the gap between standard publication and real-world deployment.
 ## Links to other concepts
 -> [[NIST]]
-→ [[CRYSTALS-Kyber]]
-→ [[CRYSTALS-Dilithium]]
+→ [[ML-KEM]]
+→ [[ML-DSA]]
 → [[Shor's Algorithm]]
 → [[RSA]]
 → [[ECDH]]

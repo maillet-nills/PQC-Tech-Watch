@@ -6,7 +6,7 @@ tags: []
 status: to-read | reading | done | to-dig-deeper
 cite-key:
 ---
-## Summary (3 lines max)
+## Summary
 
 ## Key Points
 

@@ -32,22 +32,23 @@ It covers the transition from classical to quantum-resistant algorithms, followi
 
 - 00 - Index
   - MOC - Post-Quantum Cryptography
-- 00' - Journal
 - 01 - Fundamentals
   - Classical Cryptography Overview
   - Quantum Computing Threat
   - What is Post-Quantum Cryptography
 - 02 - Standards & Algorithms
-  - CRYSTALS-Kyber
-  - CRYSTALS-Dilithium
+  - ML-DSA
+  - ML-KEM
   - Grover's Algorithm
   - Shor's Algorithm
-- 03 - Active Watch
+- 03 - Active Watch & Monitoring
+  - /Academic & Research
+  - /News & Announcements
+  - /Threat Analysis & Risk
 - 04 - Implementations
-- 05 - Use Cases & Deployment
-- 06 - Resources
-  - Classical Cryptography
-  - Concepts
+- 05 - Knowledge Base
+  - /Concepts
+  - /External Resources
 
 ---
 
@@ -56,7 +57,7 @@ It covers the transition from classical to quantum-resistant algorithms, followi
 - Fundamentals of classical cryptography (asymmetric keys, hash functions, cryptographic agility)
 - Quantum computing threat and the "Harvest Now, Decrypt Later" attack strategy
 - NIST PQC standardization process and selected algorithms
-- Lattice-based cryptography (CRYSTALS-Kyber, CRYSTALS-Dilithium)
+- Lattice-based cryptography (ML-KEM, ML-DSA)
 - Quantum algorithms (Shor's, Grover's) and their impact on current cryptosystems
 - Real-world PQC migration use cases and deployment strategies
 

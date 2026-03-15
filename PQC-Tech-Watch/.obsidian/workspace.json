@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "fa30756c8cffd1e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd9c1f443005720f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f3b79b8b6d8732f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Fundamentals/Classical Cryptography Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Classical Cryptography Overview"
+            }
+          },
+          {
+            "id": "37df1eed4367e59c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72bb133e12962fa2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1c8f2c96b44297f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eda158a924bb594",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "632a02a802cd1500",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d1a7eb705c7d7270",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 421.5
+  },
+  "right": {
+    "id": "6d9f3cd4ee32e46e",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ca9d7feee381c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "699099e32a941ac2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 - Resources/Concepts/Symmetric Key Cryptography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Symmetric Key Cryptography"
+            }
+          },
+          {
+            "id": "8f96189cb5eb2cfb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 - Resources/Concepts/Symmetric Key Cryptography.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Symmetric Key Cryptography"
+            }
+          },
+          {
+            "id": "b640fea1b8f76bab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1617174051dc2788",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a1e49b8eb10e132a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Index/MOC - Post-Quantum Cryptography.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MOC - Post-Quantum Cryptography"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false
+    }
+  },
+  "active": "37df1eed4367e59c",
+  "lastOpenFiles": [
+    "01 - Fundamentals/Classical Cryptography Overview.md",
+    "02 - Standards & Algorithms/Grover's Algorithm.md",
+    "00 - Index/MOC - Post-Quantum Cryptography.md",
+    "01 - Fundamentals/What is Post-Quantum Cryptography.md",
+    "01 - Fundamentals/Quantum Computing Threat.md",
+    "05 - Knowledge Base/External Resources/Palo Alto Networks - Quantum Threat.md",
+    "05 - Knowledge Base/Concepts/Symmetric Key Cryptography.md",
+    "05 - Knowledge Base/External Resources/NIST.md",
+    "05 - Knowledge Base/External Resources/GeeksForGeeks - Cryptography.md",
+    "05 - Knowledge Base/Concepts/Asymmetric Key Cryptography.md",
+    "05 - Knowledge Base/Concepts/Cryptographic Agility.md",
+    "05 - Knowledge Base/Concepts/Harvest Now, Decrypt Later.md",
+    "05 - Knowledge Base/Concepts/Hash Functions.md",
+    "03 - Active Watch & Monitoring/News & Announcements/2026-03-14 - Google Integrates ML-DSA in HTTPS Certificates.md",
+    "02 - Standards & Algorithms/ML-DSA.md",
+    "02 - Standards & Algorithms/ML-KEM.md",
+    "02 - Standards & Algorithms/Shor's Algorithm.md",
+    "03 - Active Watch & Monitoring/News & Announcements/2026-03-02 - Thales demonstrates 5G network PQC-migration without any eSIM or SIM card replacement.md",
+    "03 - Active Watch & Monitoring/News & Announcements/2026-03-07 - Trump Administration Official Cybersecurity Strategy - PQC Adoption Commitment.md",
+    "05 - Knowledge Base/External Resources",
+    "03 - Active Watch & Monitoring/Academic & Research",
+    "03 - Active Watch & Monitoring/Threat Analysis & Risk",
+    "03 - Active Watch & Monitoring/News & Announcements",
+    "_templates/Resource.md",
+    "_templates/Weekly.md",
+    "00' - Journal/NIST.md",
+    "_templates/Article.md",
+    "00' - Journal/Cryptographic Agility.md",
+    "00' - Journal/cryptographic agility.md",
+    "01 - Fundamentals/02 - Types",
+    "05 - Knowledge Base/Concepts",
+    "05 - Knowledge Base/PQC",
+    "06 - Resources/Untitled.canvas",
+    "05 - Knowledge Base/Classical Cryptography",
+    "01 - Fundamentals/01 - Introduction",
+    "00' - Journal"
+  ]
+}

@@ -19,14 +19,13 @@ The **two key algorithms** covered are [[Shor's Algorithm]] (breaks asymmetric e
 
 ## Why it's relevant
 **It lists 8 concrete risks :**
-
-- Breaking public-key encryption
-- [["Harvest Now, Decrypt Later"]]
-- Compromising digital signatures
-- Undermining blockchain integrity
-- Weakening secure communications
-- Exposing IoT ecosystems
-- Endangering critical infrastructure
-- Creating geopolitical imbalance
+1. Breaking public-key encryption
+2. [[Harvest Now, Decrypt Later]]
+3. Compromising digital signatures
+4. Undermining blockchain integrity
+5. Weakening secure communications
+6. Exposing IoT ecosystems
+7. Endangering critical infrastructure
+8. Creating geopolitical imbalance
 
 ## Notes
