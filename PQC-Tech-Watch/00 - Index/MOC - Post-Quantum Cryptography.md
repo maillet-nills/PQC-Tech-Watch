@@ -17,6 +17,7 @@
 → [[2026-03-02 - Thales demonstrates 5G network PQC-migration without any eSIM or SIM card replacement]]
 -> [[2026-03-07 - Trump Administration Official Cybersecurity Strategy - PQC Adoption Commitment]]
 -> [[2026-03-14 - Google Integrates ML-DSA in HTTPS Certificates]]
+-> [[2026-03-19 - China rejects NIST approach and targets its own PQC standards by 2029]]
 ### Threat Analysis & Risk
 
 → (Coming soon)

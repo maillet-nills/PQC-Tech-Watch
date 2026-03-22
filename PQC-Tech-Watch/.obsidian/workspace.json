@@ -6,6 +6,7 @@
       {
         "id": "cd9c1f443005720f",
         "type": "tabs",
+        "dimension": 51.92572214580468,
         "children": [
           {
             "id": "7f3b79b8b6d8732f",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Fundamentals/Classical Cryptography Overview.md",
+                "file": "00 - Index/MOC - Post-Quantum Cryptography.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,9 +29,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classical Cryptography Overview"
+              "title": "MOC - Post-Quantum Cryptography"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "0df947bdd1df4555",
+        "type": "tabs",
+        "dimension": 48.07427785419532,
+        "children": [
           {
             "id": "37df1eed4367e59c",
             "type": "leaf",
@@ -38,11 +46,10 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Vue graphique"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -65,7 +72,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorateur de fichiers"
             }
           },
           {
@@ -99,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 369.5
   },
   "right": {
     "id": "6d9f3cd4ee32e46e",
@@ -196,38 +203,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false,
       "templater-obsidian:Templater": false,
       "periodic-notes:Open this week": false
     }
   },
   "active": "37df1eed4367e59c",
   "lastOpenFiles": [
-    "01 - Fundamentals/Classical Cryptography Overview.md",
-    "02 - Standards & Algorithms/Grover's Algorithm.md",
     "00 - Index/MOC - Post-Quantum Cryptography.md",
+    "03 - Active Watch & Monitoring/News & Announcements/2026-03-19 - China rejects NIST approach and targets its own PQC standards by 2029.md",
+    "03 - Active Watch & Monitoring/News & Announcements/2026-03-02 - Thales demonstrates 5G network PQC-migration without any eSIM or SIM card replacement.md",
+    "03 - Active Watch & Monitoring/News & Announcements/2026-03-14 - Google Integrates ML-DSA in HTTPS Certificates.md",
+    "03 - Active Watch & Monitoring/News & Announcements/2026-03-07 - Trump Administration Official Cybersecurity Strategy - PQC Adoption Commitment.md",
+    "01 - Fundamentals/Classical Cryptography Overview.md",
+    "_templates/Article.md",
+    "03 - Active Watch & Monitoring/Sans titre.md",
+    "05 - Knowledge Base/Concepts/Asymmetric Key Cryptography.md",
     "01 - Fundamentals/What is Post-Quantum Cryptography.md",
+    "02 - Standards & Algorithms/Shor's Algorithm.md",
+    "02 - Standards & Algorithms/ML-KEM.md",
+    "02 - Standards & Algorithms/ML-DSA.md",
+    "02 - Standards & Algorithms/Grover's Algorithm.md",
     "01 - Fundamentals/Quantum Computing Threat.md",
     "05 - Knowledge Base/External Resources/Palo Alto Networks - Quantum Threat.md",
     "05 - Knowledge Base/Concepts/Symmetric Key Cryptography.md",
     "05 - Knowledge Base/External Resources/NIST.md",
     "05 - Knowledge Base/External Resources/GeeksForGeeks - Cryptography.md",
-    "05 - Knowledge Base/Concepts/Asymmetric Key Cryptography.md",
     "05 - Knowledge Base/Concepts/Cryptographic Agility.md",
     "05 - Knowledge Base/Concepts/Harvest Now, Decrypt Later.md",
     "05 - Knowledge Base/Concepts/Hash Functions.md",
-    "03 - Active Watch & Monitoring/News & Announcements/2026-03-14 - Google Integrates ML-DSA in HTTPS Certificates.md",
-    "02 - Standards & Algorithms/ML-DSA.md",
-    "02 - Standards & Algorithms/ML-KEM.md",
-    "02 - Standards & Algorithms/Shor's Algorithm.md",
-    "03 - Active Watch & Monitoring/News & Announcements/2026-03-02 - Thales demonstrates 5G network PQC-migration without any eSIM or SIM card replacement.md",
-    "03 - Active Watch & Monitoring/News & Announcements/2026-03-07 - Trump Administration Official Cybersecurity Strategy - PQC Adoption Commitment.md",
     "05 - Knowledge Base/External Resources",
     "03 - Active Watch & Monitoring/Academic & Research",
     "03 - Active Watch & Monitoring/Threat Analysis & Risk",
@@ -235,9 +245,6 @@
     "_templates/Resource.md",
     "_templates/Weekly.md",
     "00' - Journal/NIST.md",
-    "_templates/Article.md",
-    "00' - Journal/Cryptographic Agility.md",
-    "00' - Journal/cryptographic agility.md",
     "01 - Fundamentals/02 - Types",
     "05 - Knowledge Base/Concepts",
     "05 - Knowledge Base/PQC",
